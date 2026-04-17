@@ -1,3 +1,9 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/Solution Items/docs/">
+    <File Path="NOTES.md" />
+  </Folder>
   <Project Path="D2R_Offline_BackupsCLI/D2R_Offline_BackupsCLI.csproj" />
 </Solution>
