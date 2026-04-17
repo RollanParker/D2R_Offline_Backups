@@ -32,10 +32,16 @@ C:\Users\<YourUser>\D2R_Backups\
 Each backup is stored in a timestamped folder.
 
 ---
+## ⬇️ Download
+
+Download the latest release here:
+
+https://github.com/YOUR_USERNAME/D2R_Offline_Backups/releases
 
 ## ▶️ Usage
 
 Run the executable:
+
 
 ```
 D2R_Offline_BackupsCLI.exe

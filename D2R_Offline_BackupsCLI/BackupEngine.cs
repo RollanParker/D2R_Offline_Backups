@@ -24,7 +24,7 @@ namespace D2R_Offline_BackupsCLI
                 return;
             }
 
-            string timestamp = DateTime.Now.ToString("yyyy-MM-dd");
+            string timestamp = DateTime.Now.ToString("yyyy-MM-dd HH-mm");
             string backupFolder = Path.Combine(backupRoot, timestamp);
 
             Directory.CreateDirectory(backupFolder);
