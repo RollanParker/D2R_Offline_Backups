@@ -36,7 +36,7 @@ Each backup is stored in a timestamped folder.
 
 Download the latest release here:
 
-https://github.com/YOUR_USERNAME/D2R_Offline_Backups/releases
+https://github.com/RollanParker/D2R_Offline_Backups/releases
 
 ## ▶️ Usage
 
