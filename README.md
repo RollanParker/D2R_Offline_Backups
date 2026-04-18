@@ -32,11 +32,18 @@ C:\Users\<YourUser>\D2R_Backups\
 Each backup is stored in a timestamped folder.
 
 ---
+
 ## ⬇️ Download
 
 Download the latest release here:
 
 https://github.com/RollanParker/D2R_Offline_Backups/releases
+
+- ## 👶 Dependencies
+
+- NET 10.0 Runtime (v10.x.x)
+
+- https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-10.0.6-windows-x64-installer?cid=getdotnetcore
 
 ## ▶️ Usage
 
